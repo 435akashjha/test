@@ -1,2 +1,2 @@
 # test
-test first
+test first for git commands
